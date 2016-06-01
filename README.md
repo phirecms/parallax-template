@@ -2,7 +2,8 @@ Parallax Template
 =================
 
 This is a basic template set for Phire CMS 2 to demonstrate using the
-phire-templates module. It is built using Bootstrap and Font Awesome.
+phire-templates module. It is a simple parallax layout, built using
+Bootstrap and Font Awesome.
 
 OVERVIEW
 ========
